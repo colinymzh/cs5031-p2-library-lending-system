@@ -1,0 +1,100 @@
+.menu-box {
+    -fx-background-color: #F0F0F0;
+    -fx-border-color: #C0C0C0;
+    -fx-border-width: 0 2 0 0; /* top right bottom left */
+}
+
+.section-label {
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px;
+    -fx-background-color: transparent;
+    -fx-underline: false; /* Underline the section label */
+}
+
+.menu-button {
+    -fx-background-color: #F0F0F0;
+    -fx-border-width: 0;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-padding: 15px 20px;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+.menu-button:hover {
+    -fx-background-color: #D6D6D6; /* Dark color on mouseover */
+    -fx-cursor: hand;
+}
+
+
+.separator {
+    -fx-border-color: #C0C0C0;
+    -fx-border-width: 1 0 0 0; /* top right bottom left */
+    -fx-padding: 5 0; /* top/bottom padding */
+}
+
+.delete-button-style {
+    -fx-background-color: #F0F0F0;
+    -fx-border-width: 0;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-padding: 15px 20px;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+.refresh-button-style {
+    -fx-background-color: #F0F0F0;
+    -fx-border-width: 0;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-padding: 15px 20px;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+.update-button-style {
+    -fx-background-color: #F0F0F0;
+    -fx-border-width: 0;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-padding: 15px 20px;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+.add-button-style {
+    -fx-background-color: #F0F0F0;
+    -fx-border-width: 0;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+    -fx-padding: 15px 20px;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+}
+
+.refresh-button-style:hover {
+    -fx-background-color: #71b3e1;
+    -fx-text-fill: white;
+}
+
+.delete-button-style:hover {
+    -fx-background-color: #e17171;
+    -fx-text-fill: white;
+}
+
+.add-button-style:hover {
+    -fx-background-color: #78e171;
+    -fx-text-fill: white;
+}
+
+.update-button-style:hover {
+    -fx-background-color: #7198e1;
+    -fx-text-fill: white;
+}

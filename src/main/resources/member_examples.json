@@ -1,0 +1,42 @@
+[
+  {
+    "name": "John Doe",
+    "address": "10 Downing Street, London, SW1A 2AA"
+  },
+  {
+    "name": "Jane Smith",
+    "address": "221B Baker Street, London, NW1 6XE"
+  },
+  {
+    "name": "Alice Johnson",
+    "address": "20 Fenchurch Street, London, EC3M 3BY"
+  },
+  {
+    "name": "Bob Brown",
+    "address": "The Shard, 32 London Bridge St, London, SE1 9SG"
+  },
+  {
+    "name": "Emily Davis",
+    "address": "Windsor Castle, Windsor, SL4 1NJ"
+  },
+  {
+    "name": "David Wilson",
+    "address": "Edinburgh Castle, Castlehill, Edinburgh, EH1 2NG"
+  },
+  {
+    "name": "Olivia Martinez",
+    "address": "Buckingham Palace, London, SW1A 1AA"
+  },
+  {
+    "name": "James Taylor",
+    "address": "Stonehenge, Amesbury, Salisbury, SP4 7DE"
+  },
+  {
+    "name": "Sophia Anderson",
+    "address": "Tower of London, London, EC3N 4AB"
+  },
+  {
+    "name": "Michael Thomas",
+    "address": "Big Ben, Westminster, London, SW1A 0AA"
+  }
+]
